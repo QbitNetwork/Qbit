@@ -352,7 +352,7 @@ namespace CryptoNote
                 ss << "You are " << std::abs(diff) << " blocks (" << days << " days) ahead ";
             }
 
-            ss << "the current peer you're connected to. Qbit A Silver Asset Backed Crypto Currency! ";
+            ss << "the current peer you're connected to. Qbit A Global Silver Asset Backed Crypto Currency! ";
 
             auto logLevel = Logging::TRACE;
             /* Log at different levels depending upon if we're ahead, behind, and if it's
