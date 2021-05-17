@@ -39,8 +39,10 @@ To use QbitNetwork, you'll need a way to connect to the network, and a wallet to
 ### Getting Started 
 
 If you're a new user to Qbit you'll probably want to get in sync with the network as quickly as you can so you can create a wallet and use your funds. Syncing from your own node is faster than syncing from a remote node.
-
-<span style="color:red;">DONT MISS THIS STEP OR YOU WILL LOSE YOUR MONEY:</span><br>
+```diff
+- DONT MISS THIS STEP OR YOU WILL LOSE YOUR MONEY
+ ...diff
+DONT MISS THIS STEP OR YOU WILL LOSE YOUR MONEY:<br>
 **Backup your keys** - You can generate a wallet right inside the software, or use [this generator](https://qbit.money/wallet/) that will make a [printable physical paper wallet](https://qbit.money/make-paper-wallet.html} to hold your funds.
 
                    
