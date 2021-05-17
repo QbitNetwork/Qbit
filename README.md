@@ -42,7 +42,7 @@ If you're a new user to Qbit you'll probably want to get in sync with the networ
 
 DONT MISS THIS STEP OR YOU WILL LOSE YOUR MONEY:<br>
 
-**Backup your keys** - You can generate a wallet right inside the software, or use [this generator](https://qbit.money/wallet/) that will make a [printable physical paper wallet](https://qbit.money/make-paper-wallet.html} to hold your funds.
+**Backup your keys** - You can generate a wallet right inside the software, or use [this generator](https://qbit.money/wallet/) that will make a [printable physical paper wallet](https://qbit.money/make-paper-wallet.html) to hold your funds.
 
                    
 
