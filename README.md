@@ -6,7 +6,7 @@ Community help welcomed and always needed so let us know who you are and what yo
 We believe in sharing and rewarding Community helpers so Dive in and claim a bounty its gona be worth your time and effort.
 
 <h2>DEV HELP BOUNTY</h2><br>
-<h3>40000 Qbit  BOUNTY– We need some help from the community Currently we looking for someone to implement the API for our Block explorer,
+<h3>Qbit  BOUNTY– We always need and welcome help from the community, Currently we are looking for someone to add a generic merchant plugin that allows merchants to accept Qbit Currency for goods and services if you can help jump in and claim the Bounty.
 if you can help, Contact myhdisdead@  use Telegram (https://t.me/Qbitcurrency) [Qbitcurrency] or use contact form at bottom of page on (https://qbit.money/)</h3>
 
 #### Qbit Currency Private Global Crypto Payment Network is a fast, and easy way to send money to friends and businesses anywhere in the world.
