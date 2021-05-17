@@ -9,7 +9,7 @@ We believe in sharing and rewarding Community helpers so Dive in and claim a bou
 <h3>Qbit  BOUNTY– We always need and welcome help from the community, Currently we are looking for someone to add a generic merchant plugin that allows merchants to accept Qbit Currency for goods and services if you can help jump in and claim the Bounty.
 if you can help, Contact myhdisdead@  use Telegram (https://t.me/Qbitcurrency) [Qbitcurrency] or use contact form at bottom of page on (https://qbit.money/)</h3>
 
-#### Qbit Currency Private Global Crypto Payment Network is a fast, and easy way to send money to friends and businesses anywhere in the world.
+#### Qbit Currency is a Silver backed Private Global Crypto Currency Payment Network it's a fast, and easy way to send money to friends and businesses anywhere in the world.
 
 
 ### Installing QbitNetworkd
@@ -27,7 +27,7 @@ Dont Forget when using wallet to:
 
 ### A note for contributing developers
 
-Hello friends and coders thank you for helping us with this project This payment vehicle uses code from other communities who contributed their time and code which helped us and others to get started. We try to make sure we get the proper license header in every file we modify. By the terms of this project's license, any open source project may use our software, but the licenses may only be appended to, not altered. 
+Hello friends and coders thank you for helping us with this project This Crypto Currency payment vehicle uses code from other communities who contributed their time and code which helped us and others to get started. We try to make sure we get the proper license header in every file we modify. By the terms of this project's license, any open source project may use our software, but the licenses may only be appended to, not altered. 
 
 #### Qbit Private Global Crypto Payment Network is a fast, and easy way to send money to friends, family and merchants anywhere in the world.
 
@@ -40,11 +40,10 @@ To use QbitNetwork, you'll need a way to connect to the network, and a wallet to
 
 If you're a new user to Qbit you'll probably want to get in sync with the network as quickly as you can so you can create a wallet and use your funds. Syncing from your own node is faster than syncing from a remote node.
 
+<span style="color:"red";>DONT MISS THIS STEP OR YOU WILL LOSE YOUR MONEY:</span>
 **Backup your keys** - You can generate a wallet right inside the software, or use [this generator](https://qbit.money/wallet/) that will make a [printable physical paper wallet](https://qbit.money/make-paper-wallet.html} to hold your funds.
 
-### A note for contributing developers
-
-Hello friends and coders all, Qbit uses code from many projects and from other communities who contributed their code to github projects.  We try to make sure we get the proper license header in every file we modify and By the terms of this project's license, any open source project may use our software, but the licenses may only be appended to, not altered. 
+                   
 
 first install:
 sudo apt-get install software-properties-common
