@@ -4,7 +4,7 @@ Qbit Currency uses soft updates to the code and wallets as needed. If it aint Br
 # Qbit
 A Fast, Secure Digital Electronic Crypto  Currency payment platform, the money of the future, The Only Cryptocurrency with it's own Silver Coin issued by Qbit a 1oz 999.9 stamped Silver crypto payment asset.
 
-![Optional Text](../main/img/Qbit_logo.png)
+![Optional Text](https://github.com/QbitNetwork/Qbit/blob/main/img/Qbit_logo.png).
 
 [![Build](https://github.com/QbitNetwork/Qbit/actions/workflows/matrix.yml/badge.svg?branch=main)](https://github.com/QbitNetwork/Qbit/actions/workflows/matrix.yml)
 [![Build](https://github.com/QbitNetwork/Qbit/actions/workflows/matrix.yml/badge.svg?branch=main&event=deployment_status)](https://github.com/QbitNetwork/Qbit/actions/workflows/matrix.yml)
