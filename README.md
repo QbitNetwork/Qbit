@@ -1,4 +1,4 @@
-![Optional Text](main/Qbit.png)
+![Optional Text](Qbit.png)
 Code Updates:
 Qbit Currency uses soft updates to the code and wallets as needed. If it aint Broke leave it alone best advice ever given.
 
