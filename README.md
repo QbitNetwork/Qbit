@@ -1,4 +1,4 @@
-<img src="https://github.com/QbitNetwork/Qbit/edit/main/img/Qbit_logo.png" width="auto">
+<img src="https://github.com/QbitNetwork/Qbit/edit/main/img/Qbit_logo.png" width="100%">
 Code Updates:
 Qbit Currency uses soft updates to the code and wallets as needed. If it aint Broke leave it alone best advice ever given.
 
