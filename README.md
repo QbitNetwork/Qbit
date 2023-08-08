@@ -1,4 +1,4 @@
-<src="/Qbit_logo.png")>
+<src="./main/Qbit_logo.png")>
 Code Updates:
 Qbit Currency uses soft updates to the code and wallets as needed. If it aint Broke leave it alone best advice ever given.
 
