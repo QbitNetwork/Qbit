@@ -52,7 +52,7 @@ namespace CryptoNote
         static_assert(
             sizeof(GENESIS_COINBASE_TX_HEX) / sizeof(*GENESIS_COINBASE_TX_HEX) != 1,
             "GENESIS_COINBASE_TX_HEX must not be empty.");
-        const uint64_t GENESIS_BLOCK_TIMESTAMP                       = 0;
+        const uint64_t GENESIS_BLOCK_TIMESTAMP                       = 1689290109;
 
         const size_t   CRYPTONOTE_REWARD_BLOCKS_WINDOW               = 100;
         const size_t   CRYPTONOTE_BLOCK_GRANTED_FULL_REWARD_ZONE     = 100000; //size of block (bytes) after which reward for block calculated using block size
