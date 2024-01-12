@@ -156,8 +156,7 @@ sudo apt-get install software-properties-common
 <li><code>Edit the source list sudo nano /etc/apt/sources.list to add the following line: deb http://security.ubuntu.com/ubuntu xenial-security main</code></li>
 <li><code>sudo apt update</code></li>
 <li><code>sudo apt install libssl1.0.0 </code></li>
-<li></code>sudo apt install python3-pip
-</code></li>
+<li><code>sudo apt install python3-pip</code></li>
 <li><code>sudo pip install cmake</code></li>
 <li><code>export CC=clang-6.0</code></li>
 <li><code>export CXX=clang++-6.0</code></li>
