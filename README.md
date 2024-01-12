@@ -153,10 +153,11 @@ sudo apt-get install software-properties-common
 <li><code>sudo apt-get update</code></li>
 <li><code>sudo apt-get install aptitude -y</code></li>
 <li><code>sudo aptitude install -y -o Aptitude::ProblemResolver::SolutionCost='100*canceled-actions,200*removals' build-essential clang-6.0 libstdc++-7-dev git libboost-all-dev libssl-dev</code></li>
-Edit the source list sudo nano /etc/apt/sources.list to add the following line: deb http://security.ubuntu.com/ubuntu xenial-security main
-sudo apt update
-sudo apt install libssl1.0.0 
-<li></code>python -m pip install --upgrade pip</code></li>
+<li><code>Edit the source list sudo nano /etc/apt/sources.list to add the following line: deb http://security.ubuntu.com/ubuntu xenial-security main</code></li>
+<li><code>sudo apt update</code></li>
+<li><code>sudo apt install libssl1.0.0 </code></li>
+<li></code>sudo apt install python3-pip
+</code></li>
 <li><code>sudo pip install cmake</code></li>
 <li><code>export CC=clang-6.0</code></li>
 <li><code>export CXX=clang++-6.0</code></li>
